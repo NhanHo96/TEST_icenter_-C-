@@ -1,0 +1,16 @@
+D:\ViLight\TEST\CODE TEST\TEST\TEST\bin\Debug\TEST.exe.config
+D:\ViLight\TEST\CODE TEST\TEST\TEST\bin\Debug\TEST.exe
+D:\ViLight\TEST\CODE TEST\TEST\TEST\bin\Debug\TEST.pdb
+D:\ViLight\TEST\CODE TEST\TEST\TEST\obj\Debug\TEST.Form1.resources
+D:\ViLight\TEST\CODE TEST\TEST\TEST\obj\Debug\TEST.Properties.Resources.resources
+D:\ViLight\TEST\CODE TEST\TEST\TEST\obj\Debug\TEST.csproj.GenerateResource.Cache
+D:\ViLight\TEST\CODE TEST\TEST\TEST\obj\Debug\TEST.exe
+D:\ViLight\TEST\CODE TEST\TEST\TEST\obj\Debug\TEST.pdb
+D:\ViLight\TEST\CODE TEST\TEST\TEST\bin\Debug\LibLED.dll
+D:\ViLight\TEST\CODE TEST\TEST\TEST\obj\Debug\TEST.csproj.ResolveComReference.cache
+D:\ViLight\TEST\CODE TEST\TEST\TEST\bin\Debug\ExcelDataReader.DataSet.dll
+D:\ViLight\TEST\CODE TEST\TEST\TEST\bin\Debug\ExcelDataReader.dll
+D:\ViLight\TEST\CODE TEST\TEST\TEST\obj\Debug\TEST.csprojResolveAssemblyReference.cache
+D:\ViLight\TEST\CODE TEST\TEST\TEST\bin\Debug\GemBox.Spreadsheet.dll
+D:\ViLight\TEST\CODE TEST\TEST\TEST\bin\Debug\GemBox.Spreadsheet.xml
+D:\ViLight\TEST\CODE TEST\TEST\TEST\bin\Debug\ExcelDataReader.xml

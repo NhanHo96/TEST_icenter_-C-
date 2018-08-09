@@ -1,0 +1,9 @@
+D:\ViLight\TEST\CODE TEST\TEST\TEST\bin\Release\TEST.exe.config
+D:\ViLight\TEST\CODE TEST\TEST\TEST\bin\Release\TEST.exe
+D:\ViLight\TEST\CODE TEST\TEST\TEST\bin\Release\TEST.pdb
+D:\ViLight\TEST\CODE TEST\TEST\TEST\bin\Release\LibLED.dll
+D:\ViLight\TEST\CODE TEST\TEST\TEST\obj\Release\TEST.Form1.resources
+D:\ViLight\TEST\CODE TEST\TEST\TEST\obj\Release\TEST.Properties.Resources.resources
+D:\ViLight\TEST\CODE TEST\TEST\TEST\obj\Release\TEST.csproj.GenerateResource.Cache
+D:\ViLight\TEST\CODE TEST\TEST\TEST\obj\Release\TEST.exe
+D:\ViLight\TEST\CODE TEST\TEST\TEST\obj\Release\TEST.pdb
